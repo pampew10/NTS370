@@ -1,7 +1,8 @@
 ---
 # UAT NTS370 Project 1.1 Shell Script
 ---
-### Code used for the script
+### Code used for the script will be below
+---
 #!/bin/sh
 
 #Studentname variable represents the student name
@@ -16,9 +17,8 @@ read coursecode
 #This portion of the text is using the studentname and coursecode to form a sentence for the individual"
 echo "hello $studentname! you're currently attending $coursecode, at UAT.""
 
-+ Always Include Team Number Not School Name
-+ No More Than 3 Sentences Per Paragraph (Primarily the case)
-+ Include Extensive Screenshots if applicable
-+ Pages Can Range From 1-3 Pages Depending On Information Being Requested for Inject
-+ Yell at People (I have a full repository of information that should lead us to victory. Make people copy ASU scripts for password resets or other useful things!)
+---
+
++ This is the primary script and a picture of the script in VIM on my personal machine will be included below
+![](https://github.com/pampew10/NTS370/blob/master/sssss.png)
 ---
