@@ -61,6 +61,12 @@ echo "scan output to file nmapoutput#2"
 
 ---
 
+# Here is the script https://github.com/pampew10/NTS370/blob/master/nmapscript.sh
+
+---
+
 + This is the primary script and a picture of the script in VIM on my personal machine will be included below
-![](https://github.com/pampew10/NTS370/blob/master/Screenshotforclass)
+![](https://github.com/pampew10/NTS370/blob/master/scriptinfo)
+![](https://github.com/pampew10/NTS370/blob/master/scriptoutput)
+![](https://github.com/pampew10/NTS370/blob/master/scriptrun)
 ---
