@@ -4,15 +4,22 @@
 ### Code used for the script will be below
 ---
 #!/bin/bash
-#this is the starting section for the script grabbing a starting number for the script to function properly
+#this is the starting section for the script grabbing a starting number for the script to function properly.
+
 echo "type your starting point for the ending number of the IP being scanned. 192.168.1.x"
+
 read starting
+
 echo "Your starting number is $starting-x"
 
 #this area checkes if the number is smaller then 1 as if it was it would not be valid for future commands.
+
 if [ $starting -lt 1 ]
+
 then
+
 echo "this number is to small please try again"
+
 exit
 
 else
