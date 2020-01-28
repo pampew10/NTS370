@@ -41,6 +41,6 @@ done
 ---
 
 + This is the primary script and a picture of the script in VIM on my personal machine will be included below
-![](https://github.com/pampew10/NTS370/blob/master/FIZZss#1.png)
-![](https://github.com/pampew10/NTS370/blob/master/FIZZss#2.png)
+![](https://github.com/pampew10/NTS370/blob/master/FIZZss%231.png)
+![](https://github.com/pampew10/NTS370/blob/master/FIZZss%232.png)
 ---
